@@ -1,2 +1,3 @@
 My name is Anurag
-I am JAVA Developer
+I am MERN Developer
+and I am 3rd Year Computer Enginear
